@@ -1,0 +1,37 @@
+,Segment,Category,year,Sales
+0,Consumer,Furniture,2015,85745.2936
+1,Consumer,Furniture,2016,93633.2363
+2,Consumer,Furniture,2017,98717.3422
+3,Consumer,Furniture,2018,109600.3859
+4,Consumer,Office Supplies,2015,82641.648
+5,Consumer,Office Supplies,2016,79548.84
+6,Consumer,Office Supplies,2017,85650.827
+7,Consumer,Office Supplies,2018,111511.293
+8,Consumer,Technology,2015,94569.859
+9,Consumer,Technology,2016,92174.217
+10,Consumer,Technology,2017,106774.796
+11,Consumer,Technology,2018,107492.79299999999
+12,Corporate,Furniture,2015,45031.5707
+13,Corporate,Furniture,2016,40656.8739
+14,Corporate,Furniture,2017,75862.0528
+15,Corporate,Furniture,2018,58771.2044
+16,Corporate,Office Supplies,2015,48743.081
+17,Corporate,Office Supplies,2016,31430.765
+18,Corporate,Office Supplies,2017,53923.293
+19,Corporate,Office Supplies,2018,90033.397
+20,Corporate,Technology,2015,34022.844
+21,Corporate,Technology,2016,47587.96
+22,Corporate,Technology,2017,75191.97200000001
+23,Corporate,Technology,2018,87239.061
+24,Home Office,Furniture,2015,25701.0168
+25,Home Office,Furniture,2016,29763.7572
+26,Home Office,Furniture,2017,21233.645
+27,Home Office,Furniture,2018,43942.1969
+28,Home Office,Office Supplies,2015,18128.091
+29,Home Office,Office Supplies,2016,22144.802
+30,Home Office,Office Supplies,2017,42843.445999999996
+31,Home Office,Office Supplies,2018,38822.851
+32,Home Office,Technology,2015,45272.804
+33,Home Office,Technology,2016,22495.554
+34,Home Office,Technology,2017,39995.176
+35,Home Office,Technology,2018,74638.837

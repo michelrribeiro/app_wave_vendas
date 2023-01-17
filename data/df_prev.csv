@@ -1,0 +1,1996 @@
+Order Date,Segment,Sub-Category,Sales
+2015-01-01,Consumer,Accessories,3
+2015-01-01,Corporate,Appliances,4
+2015-01-01,Corporate,Accessories,1
+2015-01-01,Consumer,Tables,2
+2015-01-01,Home Office,Fasteners,2
+2015-01-01,Consumer,Storage,8
+2015-01-01,Home Office,Furnishings,2
+2015-01-01,Consumer,Phones,7
+2015-01-01,Consumer,Paper,8
+2015-01-01,Home Office,Labels,1
+2015-01-01,Consumer,Labels,2
+2015-01-01,Consumer,Appliances,2
+2015-01-01,Consumer,Furnishings,12
+2015-01-01,Home Office,Paper,6
+2015-01-01,Consumer,Fasteners,1
+2015-01-01,Consumer,Envelopes,2
+2015-01-01,Consumer,Copiers,1
+2015-01-01,Home Office,Phones,3
+2015-01-01,Consumer,Chairs,6
+2015-01-01,Consumer,Bookcases,3
+2015-01-01,Home Office,Storage,2
+2015-01-01,Consumer,Binders,10
+2015-01-01,Home Office,Chairs,2
+2015-01-01,Corporate,Art,2
+2015-01-01,Consumer,Art,8
+2015-01-01,Home Office,Art,1
+2015-01-01,Corporate,Storage,3
+2015-01-01,Corporate,Bookcases,2
+2015-01-01,Home Office,Appliances,1
+2015-01-01,Corporate,Labels,2
+2015-01-01,Corporate,Binders,7
+2015-01-01,Home Office,Binders,1
+2015-01-01,Corporate,Chairs,1
+2015-01-01,Corporate,Phones,2
+2015-01-01,Corporate,Fasteners,1
+2015-01-01,Corporate,Paper,2
+2015-01-01,Corporate,Furnishings,1
+2015-01-01,Corporate,Envelopes,2
+2015-02-01,Home Office,Paper,2
+2015-02-01,Corporate,Labels,1
+2015-02-01,Corporate,Machines,1
+2015-02-01,Corporate,Art,1
+2015-02-01,Home Office,Accessories,2
+2015-02-01,Corporate,Paper,3
+2015-02-01,Consumer,Bookcases,1
+2015-02-01,Corporate,Phones,3
+2015-02-01,Home Office,Storage,1
+2015-02-01,Consumer,Binders,6
+2015-02-01,Consumer,Copiers,1
+2015-02-01,Corporate,Furnishings,5
+2015-02-01,Home Office,Labels,1
+2015-02-01,Consumer,Labels,1
+2015-02-01,Corporate,Fasteners,1
+2015-02-01,Consumer,Paper,8
+2015-02-01,Corporate,Envelopes,1
+2015-02-01,Consumer,Phones,8
+2015-02-01,Home Office,Furnishings,1
+2015-02-01,Consumer,Storage,3
+2015-02-01,Home Office,Fasteners,1
+2015-02-01,Corporate,Chairs,1
+2015-02-01,Consumer,Art,6
+2015-02-01,Corporate,Accessories,6
+2015-02-01,Home Office,Binders,3
+2015-02-01,Corporate,Appliances,1
+2015-02-01,Corporate,Binders,1
+2015-02-01,Consumer,Furnishings,3
+2015-02-01,Home Office,Envelopes,1
+2015-02-01,Corporate,Supplies,2
+2015-02-01,Consumer,Accessories,3
+2015-02-01,Consumer,Appliances,5
+2015-03-01,Consumer,Tables,6
+2015-03-01,Consumer,Appliances,4
+2015-03-01,Home Office,Furnishings,3
+2015-03-01,Home Office,Phones,4
+2015-03-01,Home Office,Labels,1
+2015-03-01,Consumer,Envelopes,2
+2015-03-01,Home Office,Paper,4
+2015-03-01,Corporate,Chairs,2
+2015-03-01,Home Office,Binders,3
+2015-03-01,Corporate,Accessories,3
+2015-03-01,Home Office,Bookcases,1
+2015-03-01,Consumer,Binders,20
+2015-03-01,Corporate,Paper,9
+2015-03-01,Corporate,Phones,3
+2015-03-01,Consumer,Accessories,4
+2015-03-01,Corporate,Bookcases,1
+2015-03-01,Corporate,Tables,4
+2015-03-01,Home Office,Envelopes,2
+2015-03-01,Corporate,Labels,4
+2015-03-01,Consumer,Storage,7
+2015-03-01,Consumer,Fasteners,2
+2015-03-01,Corporate,Binders,7
+2015-03-01,Consumer,Furnishings,5
+2015-03-01,Consumer,Art,12
+2015-03-01,Home Office,Storage,2
+2015-03-01,Consumer,Phones,3
+2015-03-01,Home Office,Chairs,2
+2015-03-01,Corporate,Art,4
+2015-03-01,Consumer,Supplies,3
+2015-03-01,Consumer,Bookcases,1
+2015-03-01,Consumer,Chairs,4
+2015-03-01,Consumer,Paper,9
+2015-03-01,Home Office,Machines,4
+2015-03-01,Corporate,Appliances,1
+2015-03-01,Home Office,Fasteners,1
+2015-03-01,Corporate,Furnishings,2
+2015-03-01,Consumer,Labels,5
+2015-03-01,Home Office,Art,3
+2015-03-01,Corporate,Storage,4
+2015-04-01,Consumer,Bookcases,1
+2015-04-01,Consumer,Tables,3
+2015-04-01,Consumer,Storage,4
+2015-04-01,Corporate,Furnishings,1
+2015-04-01,Corporate,Paper,4
+2015-04-01,Home Office,Phones,1
+2015-04-01,Home Office,Binders,4
+2015-04-01,Home Office,Appliances,2
+2015-04-01,Home Office,Art,2
+2015-04-01,Consumer,Paper,4
+2015-04-01,Corporate,Chairs,2
+2015-04-01,Consumer,Envelopes,1
+2015-04-01,Home Office,Labels,4
+2015-04-01,Consumer,Machines,2
+2015-04-01,Home Office,Accessories,1
+2015-04-01,Home Office,Storage,2
+2015-04-01,Consumer,Chairs,3
+2015-04-01,Corporate,Fasteners,2
+2015-04-01,Corporate,Envelopes,1
+2015-04-01,Consumer,Binders,8
+2015-04-01,Home Office,Furnishings,4
+2015-04-01,Corporate,Labels,2
+2015-04-01,Corporate,Binders,7
+2015-04-01,Consumer,Phones,5
+2015-04-01,Corporate,Storage,6
+2015-04-01,Home Office,Paper,4
+2015-04-01,Corporate,Phones,2
+2015-04-01,Corporate,Art,4
+2015-04-01,Corporate,Accessories,3
+2015-04-01,Corporate,Appliances,4
+2015-04-01,Consumer,Furnishings,7
+2015-04-01,Consumer,Accessories,2
+2015-04-01,Home Office,Machines,1
+2015-04-01,Consumer,Art,8
+2015-04-01,Consumer,Labels,2
+2015-04-01,Consumer,Appliances,2
+2015-04-01,Consumer,Fasteners,2
+2015-04-01,Home Office,Chairs,4
+2015-05-01,Consumer,Furnishings,4
+2015-05-01,Corporate,Envelopes,1
+2015-05-01,Corporate,Supplies,1
+2015-05-01,Corporate,Art,7
+2015-05-01,Home Office,Art,1
+2015-05-01,Consumer,Chairs,6
+2015-05-01,Consumer,Tables,2
+2015-05-01,Corporate,Storage,7
+2015-05-01,Home Office,Accessories,1
+2015-05-01,Consumer,Supplies,3
+2015-05-01,Home Office,Appliances,1
+2015-05-01,Consumer,Paper,12
+2015-05-01,Corporate,Appliances,3
+2015-05-01,Consumer,Labels,1
+2015-05-01,Corporate,Furnishings,5
+2015-05-01,Home Office,Fasteners,1
+2015-05-01,Consumer,Phones,7
+2015-05-01,Home Office,Furnishings,1
+2015-05-01,Consumer,Art,9
+2015-05-01,Consumer,Binders,10
+2015-05-01,Corporate,Binders,5
+2015-05-01,Corporate,Paper,8
+2015-05-01,Home Office,Binders,4
+2015-05-01,Corporate,Bookcases,1
+2015-05-01,Home Office,Paper,3
+2015-05-01,Corporate,Tables,1
+2015-05-01,Corporate,Chairs,3
+2015-05-01,Corporate,Phones,10
+2015-05-01,Consumer,Envelopes,1
+2015-05-01,Consumer,Accessories,9
+2015-05-01,Consumer,Fasteners,1
+2015-05-01,Consumer,Appliances,4
+2015-05-01,Corporate,Copiers,1
+2015-05-01,Corporate,Accessories,3
+2015-05-01,Consumer,Storage,9
+2015-06-01,Consumer,Fasteners,1
+2015-06-01,Corporate,Binders,5
+2015-06-01,Corporate,Furnishings,3
+2015-06-01,Home Office,Chairs,2
+2015-06-01,Consumer,Appliances,4
+2015-06-01,Home Office,Fasteners,1
+2015-06-01,Home Office,Labels,2
+2015-06-01,Home Office,Tables,1
+2015-06-01,Consumer,Machines,3
+2015-06-01,Consumer,Supplies,1
+2015-06-01,Consumer,Copiers,1
+2015-06-01,Home Office,Bookcases,1
+2015-06-01,Home Office,Paper,1
+2015-06-01,Consumer,Chairs,4
+2015-06-01,Consumer,Envelopes,3
+2015-06-01,Corporate,Accessories,2
+2015-06-01,Consumer,Furnishings,6
+2015-06-01,Home Office,Phones,2
+2015-06-01,Corporate,Chairs,1
+2015-06-01,Corporate,Art,6
+2015-06-01,Home Office,Art,2
+2015-06-01,Home Office,Binders,2
+2015-06-01,Consumer,Tables,3
+2015-06-01,Corporate,Fasteners,2
+2015-06-01,Consumer,Binders,16
+2015-06-01,Consumer,Art,9
+2015-06-01,Corporate,Phones,3
+2015-06-01,Corporate,Tables,4
+2015-06-01,Corporate,Storage,2
+2015-06-01,Home Office,Accessories,1
+2015-06-01,Consumer,Paper,10
+2015-06-01,Home Office,Supplies,1
+2015-06-01,Consumer,Bookcases,1
+2015-06-01,Consumer,Phones,8
+2015-06-01,Corporate,Labels,2
+2015-06-01,Consumer,Accessories,7
+2015-06-01,Corporate,Supplies,1
+2015-06-01,Consumer,Storage,8
+2015-06-01,Corporate,Paper,3
+2015-07-01,Consumer,Accessories,7
+2015-07-01,Consumer,Phones,6
+2015-07-01,Corporate,Fasteners,2
+2015-07-01,Consumer,Art,7
+2015-07-01,Corporate,Art,4
+2015-07-01,Home Office,Paper,3
+2015-07-01,Consumer,Binders,16
+2015-07-01,Corporate,Phones,5
+2015-07-01,Corporate,Binders,6
+2015-07-01,Home Office,Phones,3
+2015-07-01,Home Office,Accessories,1
+2015-07-01,Consumer,Envelopes,1
+2015-07-01,Consumer,Fasteners,2
+2015-07-01,Consumer,Storage,9
+2015-07-01,Corporate,Machines,1
+2015-07-01,Corporate,Bookcases,1
+2015-07-01,Home Office,Art,2
+2015-07-01,Consumer,Tables,3
+2015-07-01,Home Office,Furnishings,2
+2015-07-01,Home Office,Tables,2
+2015-07-01,Home Office,Binders,5
+2015-07-01,Corporate,Paper,5
+2015-07-01,Corporate,Chairs,4
+2015-07-01,Consumer,Appliances,2
+2015-07-01,Corporate,Tables,3
+2015-07-01,Corporate,Envelopes,2
+2015-07-01,Consumer,Furnishings,12
+2015-07-01,Consumer,Paper,5
+2015-07-01,Consumer,Supplies,2
+2015-07-01,Corporate,Accessories,5
+2015-07-01,Home Office,Supplies,1
+2015-07-01,Corporate,Storage,6
+2015-07-01,Home Office,Storage,3
+2015-07-01,Corporate,Furnishings,1
+2015-07-01,Home Office,Chairs,3
+2015-07-01,Corporate,Appliances,1
+2015-07-01,Home Office,Appliances,1
+2015-07-01,Consumer,Labels,1
+2015-07-01,Consumer,Chairs,7
+2015-07-01,Corporate,Supplies,2
+2015-08-01,Consumer,Supplies,4
+2015-08-01,Corporate,Storage,3
+2015-08-01,Consumer,Copiers,2
+2015-08-01,Corporate,Tables,3
+2015-08-01,Corporate,Accessories,4
+2015-08-01,Consumer,Labels,2
+2015-08-01,Home Office,Art,3
+2015-08-01,Consumer,Tables,3
+2015-08-01,Consumer,Storage,6
+2015-08-01,Home Office,Chairs,1
+2015-08-01,Consumer,Envelopes,3
+2015-08-01,Home Office,Tables,1
+2015-08-01,Corporate,Appliances,1
+2015-08-01,Home Office,Envelopes,1
+2015-08-01,Home Office,Fasteners,2
+2015-08-01,Corporate,Paper,7
+2015-08-01,Corporate,Chairs,2
+2015-08-01,Corporate,Furnishings,6
+2015-08-01,Consumer,Bookcases,2
+2015-08-01,Corporate,Supplies,1
+2015-08-01,Consumer,Appliances,3
+2015-08-01,Home Office,Appliances,2
+2015-08-01,Consumer,Phones,7
+2015-08-01,Consumer,Furnishings,4
+2015-08-01,Corporate,Fasteners,2
+2015-08-01,Consumer,Chairs,7
+2015-08-01,Consumer,Art,6
+2015-08-01,Home Office,Storage,1
+2015-08-01,Home Office,Paper,1
+2015-08-01,Home Office,Furnishings,2
+2015-08-01,Consumer,Accessories,5
+2015-08-01,Corporate,Phones,1
+2015-08-01,Home Office,Copiers,1
+2015-08-01,Consumer,Binders,12
+2015-08-01,Consumer,Fasteners,2
+2015-08-01,Consumer,Paper,16
+2015-08-01,Home Office,Accessories,3
+2015-08-01,Corporate,Binders,10
+2015-08-01,Home Office,Phones,1
+2015-08-01,Consumer,Machines,2
+2015-09-01,Consumer,Phones,12
+2015-09-01,Home Office,Labels,3
+2015-09-01,Corporate,Bookcases,1
+2015-09-01,Consumer,Fasteners,3
+2015-09-01,Consumer,Labels,5
+2015-09-01,Consumer,Furnishings,12
+2015-09-01,Corporate,Art,3
+2015-09-01,Corporate,Appliances,7
+2015-09-01,Corporate,Binders,6
+2015-09-01,Corporate,Storage,9
+2015-09-01,Corporate,Tables,3
+2015-09-01,Consumer,Tables,4
+2015-09-01,Home Office,Paper,6
+2015-09-01,Home Office,Binders,6
+2015-09-01,Home Office,Bookcases,2
+2015-09-01,Corporate,Phones,2
+2015-09-01,Corporate,Paper,17
+2015-09-01,Home Office,Chairs,2
+2015-09-01,Consumer,Art,10
+2015-09-01,Corporate,Labels,4
+2015-09-01,Consumer,Chairs,4
+2015-09-01,Home Office,Phones,3
+2015-09-01,Home Office,Accessories,2
+2015-09-01,Consumer,Machines,5
+2015-09-01,Consumer,Appliances,6
+2015-09-01,Consumer,Copiers,2
+2015-09-01,Corporate,Machines,2
+2015-09-01,Consumer,Bookcases,4
+2015-09-01,Home Office,Art,5
+2015-09-01,Consumer,Binders,14
+2015-09-01,Home Office,Appliances,2
+2015-09-01,Home Office,Envelopes,1
+2015-09-01,Home Office,Tables,1
+2015-09-01,Consumer,Paper,21
+2015-09-01,Corporate,Furnishings,6
+2015-09-01,Corporate,Fasteners,2
+2015-09-01,Home Office,Fasteners,1
+2015-09-01,Home Office,Storage,2
+2015-09-01,Corporate,Chairs,2
+2015-09-01,Consumer,Storage,13
+2015-09-01,Home Office,Furnishings,4
+2015-09-01,Consumer,Envelopes,6
+2015-09-01,Consumer,Accessories,11
+2015-09-01,Consumer,Supplies,2
+2015-10-01,Home Office,Storage,2
+2015-10-01,Home Office,Accessories,2
+2015-10-01,Home Office,Phones,2
+2015-10-01,Consumer,Supplies,1
+2015-10-01,Consumer,Machines,1
+2015-10-01,Consumer,Furnishings,8
+2015-10-01,Corporate,Phones,5
+2015-10-01,Corporate,Fasteners,1
+2015-10-01,Corporate,Accessories,2
+2015-10-01,Consumer,Paper,12
+2015-10-01,Corporate,Envelopes,1
+2015-10-01,Consumer,Labels,1
+2015-10-01,Corporate,Binders,12
+2015-10-01,Consumer,Phones,6
+2015-10-01,Corporate,Art,3
+2015-10-01,Consumer,Bookcases,1
+2015-10-01,Consumer,Art,5
+2015-10-01,Consumer,Binders,9
+2015-10-01,Consumer,Tables,3
+2015-10-01,Corporate,Labels,3
+2015-10-01,Consumer,Envelopes,2
+2015-10-01,Home Office,Labels,1
+2015-10-01,Consumer,Accessories,6
+2015-10-01,Corporate,Bookcases,1
+2015-10-01,Corporate,Chairs,5
+2015-10-01,Consumer,Storage,5
+2015-10-01,Home Office,Binders,3
+2015-10-01,Corporate,Supplies,2
+2015-10-01,Home Office,Chairs,1
+2015-10-01,Corporate,Paper,6
+2015-10-01,Consumer,Chairs,6
+2015-10-01,Home Office,Envelopes,2
+2015-10-01,Corporate,Storage,8
+2015-10-01,Home Office,Furnishings,2
+2015-10-01,Consumer,Fasteners,1
+2015-10-01,Consumer,Appliances,4
+2015-10-01,Corporate,Furnishings,2
+2015-10-01,Consumer,Copiers,1
+2015-10-01,Corporate,Tables,3
+2015-10-01,Home Office,Paper,4
+2015-11-01,Consumer,Labels,5
+2015-11-01,Corporate,Storage,6
+2015-11-01,Consumer,Bookcases,2
+2015-11-01,Home Office,Furnishings,2
+2015-11-01,Consumer,Furnishings,14
+2015-11-01,Corporate,Supplies,1
+2015-11-01,Home Office,Chairs,2
+2015-11-01,Consumer,Accessories,12
+2015-11-01,Consumer,Appliances,2
+2015-11-01,Home Office,Supplies,1
+2015-11-01,Home Office,Appliances,1
+2015-11-01,Corporate,Labels,8
+2015-11-01,Home Office,Bookcases,2
+2015-11-01,Corporate,Appliances,8
+2015-11-01,Corporate,Furnishings,10
+2015-11-01,Consumer,Machines,1
+2015-11-01,Corporate,Fasteners,1
+2015-11-01,Consumer,Binders,20
+2015-11-01,Consumer,Envelopes,7
+2015-11-01,Corporate,Bookcases,3
+2015-11-01,Corporate,Chairs,5
+2015-11-01,Home Office,Binders,3
+2015-11-01,Home Office,Labels,2
+2015-11-01,Consumer,Storage,11
+2015-11-01,Corporate,Paper,16
+2015-11-01,Home Office,Envelopes,1
+2015-11-01,Home Office,Paper,9
+2015-11-01,Corporate,Tables,2
+2015-11-01,Consumer,Fasteners,5
+2015-11-01,Consumer,Tables,3
+2015-11-01,Consumer,Chairs,11
+2015-11-01,Home Office,Phones,5
+2015-11-01,Corporate,Binders,10
+2015-11-01,Corporate,Accessories,5
+2015-11-01,Consumer,Paper,12
+2015-11-01,Consumer,Supplies,2
+2015-11-01,Home Office,Storage,2
+2015-11-01,Corporate,Phones,7
+2015-11-01,Corporate,Art,4
+2015-11-01,Corporate,Envelopes,6
+2015-11-01,Consumer,Art,10
+2015-11-01,Home Office,Accessories,3
+2015-11-01,Consumer,Phones,16
+2015-12-01,Consumer,Supplies,3
+2015-12-01,Consumer,Labels,4
+2015-12-01,Home Office,Fasteners,2
+2015-12-01,Consumer,Paper,14
+2015-12-01,Consumer,Machines,1
+2015-12-01,Consumer,Storage,14
+2015-12-01,Home Office,Furnishings,5
+2015-12-01,Home Office,Tables,2
+2015-12-01,Consumer,Tables,5
+2015-12-01,Home Office,Labels,2
+2015-12-01,Consumer,Phones,5
+2015-12-01,Consumer,Envelopes,1
+2015-12-01,Home Office,Art,2
+2015-12-01,Corporate,Paper,7
+2015-12-01,Consumer,Accessories,10
+2015-12-01,Consumer,Binders,15
+2015-12-01,Corporate,Binders,12
+2015-12-01,Consumer,Fasteners,1
+2015-12-01,Home Office,Paper,4
+2015-12-01,Corporate,Accessories,6
+2015-12-01,Corporate,Machines,1
+2015-12-01,Corporate,Furnishings,7
+2015-12-01,Home Office,Accessories,6
+2015-12-01,Home Office,Storage,5
+2015-12-01,Consumer,Bookcases,1
+2015-12-01,Corporate,Labels,3
+2015-12-01,Home Office,Binders,5
+2015-12-01,Corporate,Bookcases,3
+2015-12-01,Corporate,Chairs,6
+2015-12-01,Corporate,Tables,3
+2015-12-01,Consumer,Appliances,8
+2015-12-01,Corporate,Art,6
+2015-12-01,Corporate,Envelopes,2
+2015-12-01,Consumer,Chairs,12
+2015-12-01,Corporate,Storage,2
+2015-12-01,Corporate,Supplies,2
+2015-12-01,Home Office,Chairs,5
+2015-12-01,Corporate,Appliances,3
+2015-12-01,Corporate,Fasteners,3
+2015-12-01,Home Office,Supplies,2
+2015-12-01,Home Office,Phones,5
+2015-12-01,Corporate,Phones,8
+2015-12-01,Consumer,Art,7
+2015-12-01,Home Office,Appliances,3
+2015-12-01,Consumer,Furnishings,15
+2015-12-01,Home Office,Machines,1
+2015-12-01,Home Office,Bookcases,1
+2016-01-01,Consumer,Accessories,2
+2016-01-01,Corporate,Furnishings,1
+2016-01-01,Home Office,Fasteners,1
+2016-01-01,Consumer,Chairs,5
+2016-01-01,Consumer,Binders,9
+2016-01-01,Corporate,Labels,1
+2016-01-01,Home Office,Accessories,1
+2016-01-01,Consumer,Paper,3
+2016-01-01,Consumer,Storage,1
+2016-01-01,Home Office,Storage,2
+2016-01-01,Corporate,Paper,2
+2016-01-01,Consumer,Phones,7
+2016-01-01,Consumer,Art,1
+2016-01-01,Corporate,Phones,4
+2016-01-01,Corporate,Supplies,1
+2016-01-01,Home Office,Furnishings,2
+2016-01-01,Corporate,Storage,2
+2016-01-01,Consumer,Appliances,1
+2016-01-01,Consumer,Supplies,2
+2016-01-01,Home Office,Tables,2
+2016-01-01,Home Office,Phones,1
+2016-01-01,Corporate,Binders,2
+2016-01-01,Corporate,Chairs,1
+2016-01-01,Consumer,Machines,1
+2016-01-01,Home Office,Chairs,3
+2016-01-01,Home Office,Paper,6
+2016-01-01,Corporate,Bookcases,1
+2016-01-01,Consumer,Labels,1
+2016-01-01,Home Office,Labels,1
+2016-01-01,Consumer,Tables,3
+2016-01-01,Consumer,Furnishings,6
+2016-01-01,Corporate,Art,3
+2016-01-01,Consumer,Copiers,1
+2016-01-01,Home Office,Art,4
+2016-01-01,Home Office,Binders,2
+2016-02-01,Home Office,Envelopes,1
+2016-02-01,Corporate,Machines,1
+2016-02-01,Home Office,Paper,2
+2016-02-01,Consumer,Binders,12
+2016-02-01,Home Office,Storage,1
+2016-02-01,Corporate,Art,2
+2016-02-01,Corporate,Paper,4
+2016-02-01,Corporate,Tables,1
+2016-02-01,Consumer,Machines,2
+2016-02-01,Consumer,Art,2
+2016-02-01,Consumer,Phones,4
+2016-02-01,Consumer,Labels,3
+2016-02-01,Consumer,Furnishings,2
+2016-02-01,Corporate,Phones,7
+2016-02-01,Home Office,Chairs,2
+2016-02-01,Corporate,Storage,1
+2016-02-01,Consumer,Tables,4
+2016-02-01,Corporate,Binders,6
+2016-02-01,Consumer,Paper,9
+2016-02-01,Corporate,Accessories,3
+2016-02-01,Home Office,Appliances,1
+2016-02-01,Consumer,Chairs,5
+2016-02-01,Home Office,Art,2
+2016-02-01,Consumer,Accessories,7
+2016-02-01,Corporate,Furnishings,1
+2016-02-01,Consumer,Bookcases,1
+2016-02-01,Home Office,Phones,1
+2016-02-01,Consumer,Storage,2
+2016-02-01,Consumer,Supplies,1
+2016-02-01,Corporate,Bookcases,1
+2016-02-01,Corporate,Labels,3
+2016-02-01,Consumer,Appliances,4
+2016-02-01,Home Office,Accessories,1
+2016-02-01,Home Office,Binders,2
+2016-02-01,Corporate,Envelopes,1
+2016-03-01,Home Office,Chairs,4
+2016-03-01,Consumer,Accessories,11
+2016-03-01,Corporate,Appliances,2
+2016-03-01,Home Office,Bookcases,1
+2016-03-01,Corporate,Envelopes,2
+2016-03-01,Corporate,Phones,6
+2016-03-01,Corporate,Storage,5
+2016-03-01,Corporate,Accessories,4
+2016-03-01,Home Office,Binders,3
+2016-03-01,Corporate,Binders,2
+2016-03-01,Home Office,Art,1
+2016-03-01,Corporate,Furnishings,9
+2016-03-01,Corporate,Paper,11
+2016-03-01,Consumer,Tables,1
+2016-03-01,Corporate,Chairs,2
+2016-03-01,Consumer,Storage,8
+2016-03-01,Corporate,Art,1
+2016-03-01,Corporate,Machines,1
+2016-03-01,Home Office,Accessories,2
+2016-03-01,Corporate,Copiers,1
+2016-03-01,Consumer,Phones,2
+2016-03-01,Consumer,Supplies,2
+2016-03-01,Home Office,Furnishings,3
+2016-03-01,Consumer,Bookcases,5
+2016-03-01,Consumer,Labels,5
+2016-03-01,Home Office,Phones,2
+2016-03-01,Consumer,Chairs,3
+2016-03-01,Consumer,Appliances,4
+2016-03-01,Consumer,Paper,12
+2016-03-01,Consumer,Furnishings,3
+2016-03-01,Consumer,Envelopes,4
+2016-03-01,Consumer,Binders,10
+2016-03-01,Consumer,Art,7
+2016-03-01,Consumer,Fasteners,3
+2016-03-01,Home Office,Paper,2
+2016-04-01,Consumer,Machines,1
+2016-04-01,Consumer,Accessories,8
+2016-04-01,Consumer,Paper,4
+2016-04-01,Consumer,Chairs,9
+2016-04-01,Corporate,Fasteners,3
+2016-04-01,Home Office,Appliances,2
+2016-04-01,Corporate,Envelopes,2
+2016-04-01,Consumer,Copiers,2
+2016-04-01,Consumer,Envelopes,3
+2016-04-01,Corporate,Chairs,4
+2016-04-01,Home Office,Binders,4
+2016-04-01,Corporate,Binders,8
+2016-04-01,Home Office,Paper,6
+2016-04-01,Consumer,Fasteners,1
+2016-04-01,Corporate,Art,6
+2016-04-01,Consumer,Furnishings,6
+2016-04-01,Corporate,Appliances,2
+2016-04-01,Consumer,Supplies,1
+2016-04-01,Home Office,Chairs,1
+2016-04-01,Corporate,Accessories,2
+2016-04-01,Consumer,Labels,3
+2016-04-01,Consumer,Tables,5
+2016-04-01,Home Office,Art,3
+2016-04-01,Corporate,Furnishings,9
+2016-04-01,Consumer,Storage,6
+2016-04-01,Corporate,Phones,10
+2016-04-01,Consumer,Art,9
+2016-04-01,Home Office,Storage,1
+2016-04-01,Consumer,Phones,11
+2016-04-01,Consumer,Appliances,7
+2016-04-01,Consumer,Binders,10
+2016-04-01,Home Office,Supplies,1
+2016-04-01,Corporate,Paper,5
+2016-04-01,Home Office,Furnishings,3
+2016-04-01,Consumer,Bookcases,1
+2016-05-01,Home Office,Chairs,1
+2016-05-01,Consumer,Envelopes,2
+2016-05-01,Corporate,Bookcases,1
+2016-05-01,Consumer,Bookcases,4
+2016-05-01,Home Office,Binders,9
+2016-05-01,Corporate,Binders,10
+2016-05-01,Consumer,Art,4
+2016-05-01,Home Office,Paper,2
+2016-05-01,Home Office,Labels,2
+2016-05-01,Consumer,Phones,6
+2016-05-01,Corporate,Accessories,3
+2016-05-01,Consumer,Fasteners,1
+2016-05-01,Home Office,Furnishings,6
+2016-05-01,Corporate,Art,1
+2016-05-01,Corporate,Paper,9
+2016-05-01,Corporate,Phones,2
+2016-05-01,Consumer,Furnishings,3
+2016-05-01,Home Office,Bookcases,1
+2016-05-01,Corporate,Supplies,2
+2016-05-01,Consumer,Machines,2
+2016-05-01,Corporate,Storage,6
+2016-05-01,Consumer,Supplies,1
+2016-05-01,Home Office,Supplies,1
+2016-05-01,Consumer,Labels,6
+2016-05-01,Home Office,Fasteners,2
+2016-05-01,Home Office,Envelopes,2
+2016-05-01,Consumer,Paper,3
+2016-05-01,Consumer,Accessories,5
+2016-05-01,Consumer,Storage,11
+2016-05-01,Consumer,Chairs,7
+2016-05-01,Home Office,Storage,1
+2016-05-01,Home Office,Appliances,4
+2016-05-01,Corporate,Labels,3
+2016-05-01,Corporate,Fasteners,1
+2016-05-01,Consumer,Appliances,7
+2016-05-01,Consumer,Binders,11
+2016-05-01,Home Office,Art,5
+2016-05-01,Corporate,Envelopes,3
+2016-05-01,Corporate,Chairs,8
+2016-05-01,Corporate,Furnishings,10
+2016-05-01,Home Office,Accessories,3
+2016-05-01,Home Office,Phones,3
+2016-06-01,Corporate,Labels,2
+2016-06-01,Home Office,Accessories,2
+2016-06-01,Corporate,Paper,9
+2016-06-01,Home Office,Chairs,1
+2016-06-01,Corporate,Accessories,3
+2016-06-01,Corporate,Storage,2
+2016-06-01,Home Office,Phones,1
+2016-06-01,Consumer,Labels,2
+2016-06-01,Home Office,Copiers,1
+2016-06-01,Home Office,Labels,1
+2016-06-01,Corporate,Furnishings,5
+2016-06-01,Corporate,Fasteners,1
+2016-06-01,Consumer,Binders,14
+2016-06-01,Corporate,Phones,4
+2016-06-01,Home Office,Bookcases,1
+2016-06-01,Corporate,Chairs,1
+2016-06-01,Home Office,Tables,1
+2016-06-01,Corporate,Bookcases,2
+2016-06-01,Home Office,Art,1
+2016-06-01,Home Office,Paper,4
+2016-06-01,Consumer,Art,7
+2016-06-01,Home Office,Storage,2
+2016-06-01,Home Office,Binders,8
+2016-06-01,Corporate,Binders,6
+2016-06-01,Consumer,Copiers,1
+2016-06-01,Corporate,Copiers,1
+2016-06-01,Consumer,Accessories,4
+2016-06-01,Consumer,Appliances,1
+2016-06-01,Consumer,Fasteners,2
+2016-06-01,Corporate,Art,4
+2016-06-01,Consumer,Chairs,6
+2016-06-01,Consumer,Furnishings,10
+2016-06-01,Corporate,Appliances,1
+2016-06-01,Consumer,Bookcases,1
+2016-06-01,Consumer,Envelopes,4
+2016-06-01,Home Office,Furnishings,3
+2016-06-01,Consumer,Storage,7
+2016-06-01,Consumer,Paper,12
+2016-06-01,Consumer,Phones,11
+2016-07-01,Home Office,Envelopes,1
+2016-07-01,Corporate,Labels,2
+2016-07-01,Consumer,Bookcases,5
+2016-07-01,Consumer,Fasteners,2
+2016-07-01,Home Office,Accessories,3
+2016-07-01,Corporate,Binders,9
+2016-07-01,Home Office,Phones,1
+2016-07-01,Home Office,Appliances,1
+2016-07-01,Consumer,Labels,1
+2016-07-01,Corporate,Fasteners,3
+2016-07-01,Consumer,Chairs,6
+2016-07-01,Home Office,Binders,8
+2016-07-01,Home Office,Fasteners,1
+2016-07-01,Corporate,Envelopes,3
+2016-07-01,Consumer,Paper,10
+2016-07-01,Corporate,Accessories,3
+2016-07-01,Home Office,Paper,1
+2016-07-01,Consumer,Storage,8
+2016-07-01,Home Office,Art,2
+2016-07-01,Corporate,Bookcases,1
+2016-07-01,Corporate,Chairs,4
+2016-07-01,Home Office,Chairs,2
+2016-07-01,Consumer,Accessories,5
+2016-07-01,Consumer,Binders,9
+2016-07-01,Corporate,Art,3
+2016-07-01,Consumer,Envelopes,2
+2016-07-01,Corporate,Paper,5
+2016-07-01,Consumer,Furnishings,4
+2016-07-01,Consumer,Machines,1
+2016-07-01,Corporate,Tables,2
+2016-07-01,Consumer,Tables,4
+2016-07-01,Corporate,Phones,2
+2016-07-01,Home Office,Furnishings,2
+2016-07-01,Consumer,Appliances,2
+2016-07-01,Corporate,Appliances,1
+2016-07-01,Corporate,Storage,2
+2016-07-01,Consumer,Phones,4
+2016-07-01,Consumer,Art,2
+2016-07-01,Corporate,Supplies,1
+2016-08-01,Corporate,Accessories,4
+2016-08-01,Home Office,Appliances,1
+2016-08-01,Corporate,Phones,3
+2016-08-01,Consumer,Appliances,6
+2016-08-01,Corporate,Art,5
+2016-08-01,Consumer,Chairs,3
+2016-08-01,Consumer,Storage,10
+2016-08-01,Home Office,Paper,7
+2016-08-01,Consumer,Copiers,1
+2016-08-01,Home Office,Supplies,1
+2016-08-01,Home Office,Art,1
+2016-08-01,Corporate,Bookcases,3
+2016-08-01,Corporate,Chairs,2
+2016-08-01,Corporate,Storage,5
+2016-08-01,Consumer,Accessories,6
+2016-08-01,Consumer,Supplies,3
+2016-08-01,Corporate,Copiers,1
+2016-08-01,Consumer,Furnishings,12
+2016-08-01,Consumer,Paper,14
+2016-08-01,Home Office,Binders,2
+2016-08-01,Home Office,Storage,1
+2016-08-01,Corporate,Machines,2
+2016-08-01,Corporate,Paper,4
+2016-08-01,Consumer,Binders,13
+2016-08-01,Corporate,Labels,1
+2016-08-01,Consumer,Tables,1
+2016-08-01,Consumer,Fasteners,3
+2016-08-01,Consumer,Bookcases,3
+2016-08-01,Consumer,Phones,9
+2016-08-01,Consumer,Machines,1
+2016-08-01,Consumer,Labels,4
+2016-08-01,Home Office,Accessories,3
+2016-08-01,Corporate,Binders,7
+2016-08-01,Corporate,Furnishings,7
+2016-08-01,Corporate,Fasteners,1
+2016-08-01,Consumer,Art,11
+2016-08-01,Home Office,Phones,4
+2016-08-01,Home Office,Fasteners,1
+2016-08-01,Corporate,Tables,2
+2016-08-01,Home Office,Chairs,2
+2016-09-01,Consumer,Machines,2
+2016-09-01,Corporate,Bookcases,2
+2016-09-01,Home Office,Binders,6
+2016-09-01,Home Office,Machines,1
+2016-09-01,Home Office,Paper,5
+2016-09-01,Corporate,Binders,13
+2016-09-01,Corporate,Art,6
+2016-09-01,Consumer,Fasteners,4
+2016-09-01,Consumer,Paper,17
+2016-09-01,Consumer,Accessories,12
+2016-09-01,Corporate,Storage,7
+2016-09-01,Home Office,Furnishings,3
+2016-09-01,Corporate,Supplies,2
+2016-09-01,Corporate,Phones,7
+2016-09-01,Consumer,Art,13
+2016-09-01,Corporate,Tables,2
+2016-09-01,Corporate,Paper,10
+2016-09-01,Consumer,Phones,16
+2016-09-01,Home Office,Storage,5
+2016-09-01,Consumer,Binders,30
+2016-09-01,Corporate,Labels,3
+2016-09-01,Home Office,Tables,1
+2016-09-01,Consumer,Bookcases,3
+2016-09-01,Home Office,Accessories,1
+2016-09-01,Corporate,Furnishings,8
+2016-09-01,Home Office,Phones,3
+2016-09-01,Home Office,Fasteners,2
+2016-09-01,Home Office,Bookcases,2
+2016-09-01,Consumer,Chairs,9
+2016-09-01,Corporate,Envelopes,1
+2016-09-01,Home Office,Envelopes,1
+2016-09-01,Consumer,Storage,17
+2016-09-01,Consumer,Copiers,1
+2016-09-01,Home Office,Art,2
+2016-09-01,Corporate,Chairs,1
+2016-09-01,Consumer,Envelopes,9
+2016-09-01,Consumer,Furnishings,8
+2016-09-01,Consumer,Appliances,4
+2016-09-01,Home Office,Labels,1
+2016-09-01,Consumer,Tables,6
+2016-09-01,Home Office,Chairs,3
+2016-09-01,Consumer,Supplies,2
+2016-09-01,Corporate,Accessories,8
+2016-09-01,Consumer,Labels,4
+2016-09-01,Corporate,Appliances,8
+2016-10-01,Home Office,Chairs,1
+2016-10-01,Home Office,Phones,1
+2016-10-01,Consumer,Fasteners,1
+2016-10-01,Consumer,Bookcases,1
+2016-10-01,Corporate,Furnishings,3
+2016-10-01,Consumer,Paper,10
+2016-10-01,Corporate,Labels,4
+2016-10-01,Consumer,Binders,8
+2016-10-01,Corporate,Machines,2
+2016-10-01,Home Office,Storage,2
+2016-10-01,Corporate,Art,2
+2016-10-01,Home Office,Accessories,3
+2016-10-01,Home Office,Copiers,2
+2016-10-01,Home Office,Labels,3
+2016-10-01,Consumer,Chairs,6
+2016-10-01,Consumer,Envelopes,3
+2016-10-01,Consumer,Accessories,6
+2016-10-01,Consumer,Supplies,2
+2016-10-01,Corporate,Chairs,5
+2016-10-01,Home Office,Art,4
+2016-10-01,Home Office,Paper,2
+2016-10-01,Consumer,Phones,8
+2016-10-01,Consumer,Storage,7
+2016-10-01,Corporate,Accessories,1
+2016-10-01,Corporate,Copiers,1
+2016-10-01,Home Office,Binders,3
+2016-10-01,Corporate,Envelopes,3
+2016-10-01,Corporate,Binders,6
+2016-10-01,Home Office,Appliances,4
+2016-10-01,Consumer,Copiers,1
+2016-10-01,Consumer,Furnishings,6
+2016-10-01,Corporate,Bookcases,1
+2016-10-01,Consumer,Tables,3
+2016-10-01,Corporate,Paper,8
+2016-10-01,Consumer,Appliances,3
+2016-10-01,Corporate,Appliances,2
+2016-10-01,Consumer,Art,8
+2016-10-01,Home Office,Furnishings,1
+2016-10-01,Consumer,Labels,1
+2016-10-01,Corporate,Phones,7
+2016-10-01,Corporate,Tables,2
+2016-10-01,Corporate,Storage,4
+2016-10-01,Home Office,Supplies,1
+2016-10-01,Home Office,Envelopes,1
+2016-11-01,Consumer,Furnishings,22
+2016-11-01,Corporate,Envelopes,2
+2016-11-01,Corporate,Phones,6
+2016-11-01,Corporate,Binders,12
+2016-11-01,Home Office,Bookcases,1
+2016-11-01,Home Office,Labels,1
+2016-11-01,Consumer,Chairs,8
+2016-11-01,Consumer,Machines,2
+2016-11-01,Consumer,Tables,4
+2016-11-01,Home Office,Appliances,3
+2016-11-01,Consumer,Supplies,2
+2016-11-01,Corporate,Accessories,7
+2016-11-01,Home Office,Furnishings,7
+2016-11-01,Corporate,Copiers,2
+2016-11-01,Consumer,Copiers,1
+2016-11-01,Home Office,Envelopes,2
+2016-11-01,Consumer,Storage,10
+2016-11-01,Home Office,Paper,7
+2016-11-01,Consumer,Accessories,12
+2016-11-01,Home Office,Art,6
+2016-11-01,Corporate,Chairs,3
+2016-11-01,Corporate,Storage,13
+2016-11-01,Consumer,Appliances,5
+2016-11-01,Consumer,Envelopes,1
+2016-11-01,Corporate,Supplies,1
+2016-11-01,Consumer,Paper,23
+2016-11-01,Corporate,Appliances,6
+2016-11-01,Consumer,Labels,2
+2016-11-01,Corporate,Art,7
+2016-11-01,Consumer,Phones,12
+2016-11-01,Corporate,Paper,4
+2016-11-01,Corporate,Machines,1
+2016-11-01,Corporate,Tables,2
+2016-11-01,Consumer,Binders,24
+2016-11-01,Corporate,Labels,4
+2016-11-01,Home Office,Tables,4
+2016-11-01,Home Office,Accessories,6
+2016-11-01,Corporate,Furnishings,8
+2016-11-01,Corporate,Bookcases,2
+2016-11-01,Consumer,Bookcases,7
+2016-11-01,Corporate,Fasteners,1
+2016-11-01,Consumer,Art,11
+2016-11-01,Consumer,Fasteners,3
+2016-11-01,Home Office,Chairs,2
+2016-11-01,Home Office,Phones,3
+2016-11-01,Home Office,Binders,7
+2016-12-01,Corporate,Paper,10
+2016-12-01,Consumer,Storage,11
+2016-12-01,Corporate,Tables,1
+2016-12-01,Consumer,Phones,20
+2016-12-01,Corporate,Chairs,4
+2016-12-01,Home Office,Appliances,2
+2016-12-01,Corporate,Storage,5
+2016-12-01,Consumer,Appliances,7
+2016-12-01,Home Office,Art,4
+2016-12-01,Home Office,Storage,2
+2016-12-01,Consumer,Paper,16
+2016-12-01,Home Office,Tables,1
+2016-12-01,Corporate,Bookcases,2
+2016-12-01,Consumer,Labels,7
+2016-12-01,Consumer,Tables,3
+2016-12-01,Consumer,Binders,14
+2016-12-01,Consumer,Copiers,2
+2016-12-01,Corporate,Envelopes,4
+2016-12-01,Consumer,Art,9
+2016-12-01,Corporate,Phones,6
+2016-12-01,Home Office,Labels,1
+2016-12-01,Consumer,Supplies,2
+2016-12-01,Consumer,Chairs,5
+2016-12-01,Home Office,Chairs,2
+2016-12-01,Consumer,Bookcases,3
+2016-12-01,Home Office,Accessories,4
+2016-12-01,Home Office,Phones,2
+2016-12-01,Home Office,Furnishings,2
+2016-12-01,Home Office,Envelopes,1
+2016-12-01,Corporate,Accessories,4
+2016-12-01,Corporate,Labels,2
+2016-12-01,Corporate,Furnishings,7
+2016-12-01,Corporate,Fasteners,1
+2016-12-01,Corporate,Copiers,1
+2016-12-01,Home Office,Binders,1
+2016-12-01,Corporate,Art,6
+2016-12-01,Home Office,Bookcases,3
+2016-12-01,Corporate,Binders,9
+2016-12-01,Home Office,Machines,1
+2016-12-01,Consumer,Envelopes,7
+2016-12-01,Consumer,Machines,3
+2016-12-01,Corporate,Appliances,2
+2016-12-01,Consumer,Accessories,16
+2016-12-01,Consumer,Fasteners,6
+2016-12-01,Consumer,Furnishings,13
+2016-12-01,Home Office,Paper,6
+2017-01-01,Corporate,Accessories,2
+2017-01-01,Corporate,Paper,5
+2017-01-01,Consumer,Supplies,2
+2017-01-01,Home Office,Copiers,1
+2017-01-01,Consumer,Fasteners,1
+2017-01-01,Corporate,Labels,1
+2017-01-01,Corporate,Supplies,2
+2017-01-01,Corporate,Furnishings,2
+2017-01-01,Consumer,Chairs,9
+2017-01-01,Home Office,Labels,1
+2017-01-01,Home Office,Accessories,6
+2017-01-01,Corporate,Envelopes,2
+2017-01-01,Home Office,Binders,4
+2017-01-01,Corporate,Phones,4
+2017-01-01,Consumer,Accessories,5
+2017-01-01,Consumer,Bookcases,2
+2017-01-01,Corporate,Binders,3
+2017-01-01,Consumer,Machines,1
+2017-01-01,Corporate,Appliances,3
+2017-01-01,Home Office,Furnishings,3
+2017-01-01,Consumer,Paper,10
+2017-01-01,Home Office,Phones,3
+2017-01-01,Consumer,Furnishings,9
+2017-01-01,Corporate,Fasteners,2
+2017-01-01,Home Office,Envelopes,5
+2017-01-01,Consumer,Art,9
+2017-01-01,Consumer,Binders,15
+2017-01-01,Consumer,Labels,4
+2017-01-01,Consumer,Storage,3
+2017-01-01,Home Office,Storage,1
+2017-01-01,Corporate,Art,4
+2017-01-01,Consumer,Envelopes,1
+2017-01-01,Home Office,Art,1
+2017-01-01,Consumer,Tables,6
+2017-01-01,Consumer,Phones,7
+2017-01-01,Corporate,Storage,4
+2017-01-01,Home Office,Paper,6
+2017-01-01,Consumer,Appliances,4
+2017-01-01,Corporate,Tables,1
+2017-02-01,Corporate,Supplies,1
+2017-02-01,Consumer,Art,8
+2017-02-01,Home Office,Furnishings,2
+2017-02-01,Corporate,Furnishings,4
+2017-02-01,Corporate,Appliances,3
+2017-02-01,Consumer,Furnishings,7
+2017-02-01,Home Office,Binders,3
+2017-02-01,Consumer,Tables,3
+2017-02-01,Consumer,Envelopes,2
+2017-02-01,Corporate,Binders,10
+2017-02-01,Consumer,Appliances,2
+2017-02-01,Corporate,Envelopes,1
+2017-02-01,Corporate,Tables,1
+2017-02-01,Corporate,Art,1
+2017-02-01,Corporate,Copiers,1
+2017-02-01,Corporate,Phones,3
+2017-02-01,Home Office,Appliances,1
+2017-02-01,Corporate,Bookcases,2
+2017-02-01,Consumer,Machines,2
+2017-02-01,Consumer,Phones,2
+2017-02-01,Consumer,Accessories,3
+2017-02-01,Home Office,Phones,1
+2017-02-01,Corporate,Fasteners,2
+2017-02-01,Consumer,Chairs,5
+2017-02-01,Consumer,Labels,2
+2017-02-01,Consumer,Fasteners,3
+2017-02-01,Home Office,Accessories,1
+2017-02-01,Consumer,Copiers,1
+2017-02-01,Corporate,Paper,4
+2017-02-01,Corporate,Labels,1
+2017-02-01,Corporate,Accessories,2
+2017-02-01,Home Office,Storage,3
+2017-02-01,Consumer,Paper,6
+2017-02-01,Consumer,Storage,8
+2017-02-01,Corporate,Storage,4
+2017-02-01,Corporate,Chairs,4
+2017-02-01,Home Office,Paper,1
+2017-02-01,Consumer,Binders,12
+2017-03-01,Corporate,Chairs,4
+2017-03-01,Consumer,Labels,4
+2017-03-01,Consumer,Appliances,6
+2017-03-01,Corporate,Storage,4
+2017-03-01,Consumer,Furnishings,10
+2017-03-01,Consumer,Bookcases,7
+2017-03-01,Home Office,Appliances,2
+2017-03-01,Consumer,Fasteners,4
+2017-03-01,Corporate,Art,2
+2017-03-01,Home Office,Labels,1
+2017-03-01,Consumer,Accessories,9
+2017-03-01,Consumer,Binders,17
+2017-03-01,Consumer,Supplies,1
+2017-03-01,Consumer,Phones,10
+2017-03-01,Home Office,Phones,3
+2017-03-01,Corporate,Tables,2
+2017-03-01,Home Office,Tables,1
+2017-03-01,Consumer,Storage,8
+2017-03-01,Corporate,Machines,1
+2017-03-01,Consumer,Machines,3
+2017-03-01,Home Office,Accessories,2
+2017-03-01,Corporate,Supplies,2
+2017-03-01,Consumer,Art,10
+2017-03-01,Home Office,Paper,6
+2017-03-01,Corporate,Furnishings,7
+2017-03-01,Home Office,Furnishings,2
+2017-03-01,Consumer,Tables,7
+2017-03-01,Corporate,Phones,3
+2017-03-01,Home Office,Binders,3
+2017-03-01,Consumer,Chairs,8
+2017-03-01,Corporate,Accessories,4
+2017-03-01,Corporate,Appliances,1
+2017-03-01,Home Office,Chairs,3
+2017-03-01,Consumer,Paper,13
+2017-03-01,Corporate,Paper,8
+2017-03-01,Consumer,Envelopes,4
+2017-03-01,Corporate,Binders,8
+2017-04-01,Consumer,Paper,12
+2017-04-01,Home Office,Fasteners,1
+2017-04-01,Home Office,Accessories,4
+2017-04-01,Consumer,Art,14
+2017-04-01,Corporate,Machines,1
+2017-04-01,Consumer,Binders,17
+2017-04-01,Corporate,Furnishings,7
+2017-04-01,Consumer,Fasteners,1
+2017-04-01,Corporate,Art,3
+2017-04-01,Home Office,Storage,5
+2017-04-01,Consumer,Tables,2
+2017-04-01,Home Office,Phones,4
+2017-04-01,Home Office,Chairs,2
+2017-04-01,Consumer,Bookcases,3
+2017-04-01,Corporate,Labels,3
+2017-04-01,Corporate,Paper,3
+2017-04-01,Consumer,Machines,2
+2017-04-01,Corporate,Tables,1
+2017-04-01,Home Office,Binders,6
+2017-04-01,Corporate,Appliances,1
+2017-04-01,Consumer,Phones,6
+2017-04-01,Corporate,Copiers,1
+2017-04-01,Home Office,Furnishings,7
+2017-04-01,Home Office,Supplies,2
+2017-04-01,Corporate,Accessories,2
+2017-04-01,Corporate,Supplies,3
+2017-04-01,Consumer,Appliances,2
+2017-04-01,Consumer,Chairs,3
+2017-04-01,Corporate,Chairs,4
+2017-04-01,Corporate,Binders,6
+2017-04-01,Consumer,Envelopes,5
+2017-04-01,Corporate,Phones,3
+2017-04-01,Home Office,Appliances,1
+2017-04-01,Home Office,Paper,7
+2017-04-01,Consumer,Storage,8
+2017-04-01,Consumer,Accessories,3
+2017-04-01,Home Office,Copiers,1
+2017-04-01,Consumer,Furnishings,14
+2017-04-01,Consumer,Supplies,4
+2017-04-01,Home Office,Art,1
+2017-04-01,Home Office,Labels,2
+2017-04-01,Home Office,Tables,2
+2017-04-01,Corporate,Fasteners,1
+2017-04-01,Corporate,Storage,6
+2017-05-01,Corporate,Accessories,6
+2017-05-01,Corporate,Tables,2
+2017-05-01,Consumer,Fasteners,3
+2017-05-01,Home Office,Supplies,1
+2017-05-01,Corporate,Bookcases,1
+2017-05-01,Home Office,Bookcases,1
+2017-05-01,Corporate,Appliances,2
+2017-05-01,Home Office,Furnishings,4
+2017-05-01,Corporate,Art,5
+2017-05-01,Corporate,Labels,2
+2017-05-01,Consumer,Appliances,5
+2017-05-01,Consumer,Storage,11
+2017-05-01,Consumer,Machines,2
+2017-05-01,Consumer,Paper,19
+2017-05-01,Home Office,Storage,7
+2017-05-01,Corporate,Storage,2
+2017-05-01,Consumer,Binders,23
+2017-05-01,Consumer,Envelopes,3
+2017-05-01,Corporate,Machines,1
+2017-05-01,Home Office,Envelopes,1
+2017-05-01,Consumer,Copiers,1
+2017-05-01,Home Office,Paper,11
+2017-05-01,Consumer,Tables,6
+2017-05-01,Home Office,Art,9
+2017-05-01,Home Office,Labels,2
+2017-05-01,Corporate,Chairs,5
+2017-05-01,Consumer,Labels,8
+2017-05-01,Consumer,Chairs,9
+2017-05-01,Home Office,Fasteners,2
+2017-05-01,Corporate,Fasteners,1
+2017-05-01,Consumer,Phones,15
+2017-05-01,Consumer,Supplies,2
+2017-05-01,Home Office,Phones,6
+2017-05-01,Consumer,Furnishings,19
+2017-05-01,Consumer,Bookcases,1
+2017-05-01,Home Office,Appliances,2
+2017-05-01,Corporate,Phones,7
+2017-05-01,Corporate,Envelopes,2
+2017-05-01,Corporate,Binders,13
+2017-05-01,Home Office,Binders,5
+2017-05-01,Corporate,Furnishings,4
+2017-05-01,Corporate,Supplies,2
+2017-05-01,Consumer,Art,4
+2017-05-01,Corporate,Paper,10
+2017-05-01,Corporate,Copiers,1
+2017-05-01,Consumer,Accessories,9
+2017-06-01,Home Office,Fasteners,1
+2017-06-01,Home Office,Paper,5
+2017-06-01,Home Office,Appliances,2
+2017-06-01,Consumer,Furnishings,5
+2017-06-01,Consumer,Accessories,8
+2017-06-01,Consumer,Bookcases,4
+2017-06-01,Consumer,Storage,10
+2017-06-01,Corporate,Art,4
+2017-06-01,Home Office,Machines,2
+2017-06-01,Home Office,Art,2
+2017-06-01,Consumer,Art,3
+2017-06-01,Consumer,Supplies,1
+2017-06-01,Home Office,Labels,1
+2017-06-01,Corporate,Tables,4
+2017-06-01,Consumer,Labels,7
+2017-06-01,Home Office,Chairs,1
+2017-06-01,Corporate,Appliances,3
+2017-06-01,Corporate,Fasteners,1
+2017-06-01,Home Office,Storage,1
+2017-06-01,Consumer,Phones,11
+2017-06-01,Corporate,Storage,2
+2017-06-01,Home Office,Furnishings,3
+2017-06-01,Corporate,Paper,12
+2017-06-01,Corporate,Binders,8
+2017-06-01,Home Office,Bookcases,1
+2017-06-01,Consumer,Fasteners,1
+2017-06-01,Consumer,Tables,1
+2017-06-01,Corporate,Copiers,1
+2017-06-01,Corporate,Accessories,4
+2017-06-01,Consumer,Appliances,6
+2017-06-01,Corporate,Furnishings,4
+2017-06-01,Home Office,Accessories,5
+2017-06-01,Consumer,Envelopes,2
+2017-06-01,Corporate,Supplies,1
+2017-06-01,Home Office,Binders,5
+2017-06-01,Consumer,Binders,15
+2017-06-01,Consumer,Paper,16
+2017-06-01,Consumer,Machines,1
+2017-06-01,Corporate,Chairs,3
+2017-06-01,Consumer,Chairs,5
+2017-06-01,Corporate,Phones,2
+2017-06-01,Home Office,Phones,6
+2017-07-01,Corporate,Supplies,3
+2017-07-01,Consumer,Art,7
+2017-07-01,Home Office,Storage,1
+2017-07-01,Corporate,Appliances,5
+2017-07-01,Home Office,Supplies,2
+2017-07-01,Corporate,Phones,4
+2017-07-01,Corporate,Storage,8
+2017-07-01,Consumer,Appliances,4
+2017-07-01,Consumer,Labels,6
+2017-07-01,Consumer,Fasteners,4
+2017-07-01,Corporate,Paper,7
+2017-07-01,Consumer,Paper,14
+2017-07-01,Home Office,Labels,2
+2017-07-01,Home Office,Chairs,1
+2017-07-01,Consumer,Tables,1
+2017-07-01,Corporate,Chairs,7
+2017-07-01,Home Office,Fasteners,2
+2017-07-01,Corporate,Tables,1
+2017-07-01,Home Office,Phones,2
+2017-07-01,Corporate,Furnishings,4
+2017-07-01,Home Office,Accessories,1
+2017-07-01,Home Office,Furnishings,2
+2017-07-01,Consumer,Furnishings,13
+2017-07-01,Corporate,Copiers,1
+2017-07-01,Corporate,Envelopes,2
+2017-07-01,Consumer,Supplies,3
+2017-07-01,Corporate,Binders,11
+2017-07-01,Home Office,Binders,6
+2017-07-01,Home Office,Envelopes,1
+2017-07-01,Corporate,Labels,4
+2017-07-01,Corporate,Accessories,4
+2017-07-01,Consumer,Accessories,6
+2017-07-01,Corporate,Fasteners,2
+2017-07-01,Consumer,Phones,12
+2017-07-01,Corporate,Machines,2
+2017-07-01,Corporate,Art,4
+2017-07-01,Corporate,Bookcases,1
+2017-07-01,Consumer,Bookcases,2
+2017-07-01,Consumer,Chairs,4
+2017-07-01,Consumer,Binders,14
+2017-07-01,Consumer,Storage,10
+2017-07-01,Home Office,Art,3
+2017-07-01,Home Office,Paper,5
+2017-07-01,Consumer,Copiers,2
+2017-07-01,Consumer,Machines,1
+2017-08-01,Home Office,Storage,2
+2017-08-01,Home Office,Appliances,2
+2017-08-01,Home Office,Tables,2
+2017-08-01,Consumer,Machines,2
+2017-08-01,Consumer,Labels,2
+2017-08-01,Consumer,Furnishings,8
+2017-08-01,Corporate,Binders,7
+2017-08-01,Home Office,Labels,5
+2017-08-01,Consumer,Storage,13
+2017-08-01,Corporate,Bookcases,3
+2017-08-01,Corporate,Storage,1
+2017-08-01,Corporate,Appliances,3
+2017-08-01,Corporate,Accessories,5
+2017-08-01,Corporate,Phones,11
+2017-08-01,Home Office,Furnishings,5
+2017-08-01,Consumer,Envelopes,5
+2017-08-01,Consumer,Appliances,5
+2017-08-01,Home Office,Supplies,2
+2017-08-01,Home Office,Bookcases,1
+2017-08-01,Home Office,Paper,3
+2017-08-01,Consumer,Chairs,7
+2017-08-01,Corporate,Chairs,3
+2017-08-01,Consumer,Paper,29
+2017-08-01,Corporate,Tables,4
+2017-08-01,Corporate,Fasteners,1
+2017-08-01,Corporate,Paper,7
+2017-08-01,Home Office,Binders,7
+2017-08-01,Consumer,Fasteners,4
+2017-08-01,Home Office,Phones,3
+2017-08-01,Consumer,Tables,4
+2017-08-01,Consumer,Supplies,4
+2017-08-01,Corporate,Labels,2
+2017-08-01,Home Office,Envelopes,2
+2017-08-01,Home Office,Accessories,5
+2017-08-01,Consumer,Binders,22
+2017-08-01,Consumer,Art,4
+2017-08-01,Consumer,Accessories,8
+2017-08-01,Corporate,Furnishings,3
+2017-08-01,Home Office,Fasteners,2
+2017-08-01,Consumer,Bookcases,6
+2017-08-01,Consumer,Phones,13
+2017-08-01,Corporate,Art,9
+2017-09-01,Corporate,Art,9
+2017-09-01,Home Office,Labels,2
+2017-09-01,Consumer,Envelopes,2
+2017-09-01,Home Office,Binders,9
+2017-09-01,Consumer,Appliances,5
+2017-09-01,Corporate,Tables,3
+2017-09-01,Consumer,Tables,2
+2017-09-01,Corporate,Chairs,8
+2017-09-01,Corporate,Bookcases,4
+2017-09-01,Consumer,Storage,10
+2017-09-01,Home Office,Furnishings,6
+2017-09-01,Corporate,Storage,2
+2017-09-01,Corporate,Accessories,5
+2017-09-01,Corporate,Appliances,5
+2017-09-01,Corporate,Labels,3
+2017-09-01,Consumer,Phones,10
+2017-09-01,Consumer,Binders,14
+2017-09-01,Home Office,Art,3
+2017-09-01,Home Office,Phones,2
+2017-09-01,Home Office,Bookcases,1
+2017-09-01,Consumer,Supplies,2
+2017-09-01,Consumer,Art,9
+2017-09-01,Home Office,Storage,3
+2017-09-01,Consumer,Paper,13
+2017-09-01,Consumer,Bookcases,2
+2017-09-01,Home Office,Supplies,2
+2017-09-01,Consumer,Labels,6
+2017-09-01,Consumer,Machines,2
+2017-09-01,Corporate,Furnishings,10
+2017-09-01,Home Office,Appliances,1
+2017-09-01,Corporate,Envelopes,2
+2017-09-01,Home Office,Accessories,3
+2017-09-01,Corporate,Phones,6
+2017-09-01,Corporate,Supplies,2
+2017-09-01,Consumer,Accessories,5
+2017-09-01,Consumer,Furnishings,6
+2017-09-01,Home Office,Tables,1
+2017-09-01,Corporate,Paper,13
+2017-09-01,Corporate,Binders,15
+2017-09-01,Home Office,Paper,5
+2017-09-01,Consumer,Chairs,8
+2017-09-01,Home Office,Chairs,4
+2017-10-01,Home Office,Bookcases,1
+2017-10-01,Corporate,Tables,3
+2017-10-01,Home Office,Storage,1
+2017-10-01,Home Office,Paper,13
+2017-10-01,Home Office,Accessories,3
+2017-10-01,Home Office,Appliances,3
+2017-10-01,Home Office,Machines,1
+2017-10-01,Home Office,Phones,6
+2017-10-01,Home Office,Binders,8
+2017-10-01,Home Office,Fasteners,1
+2017-10-01,Home Office,Furnishings,4
+2017-10-01,Corporate,Supplies,3
+2017-10-01,Home Office,Art,2
+2017-10-01,Home Office,Labels,3
+2017-10-01,Corporate,Chairs,4
+2017-10-01,Consumer,Fasteners,4
+2017-10-01,Corporate,Phones,4
+2017-10-01,Corporate,Appliances,3
+2017-10-01,Corporate,Binders,16
+2017-10-01,Consumer,Paper,17
+2017-10-01,Consumer,Phones,7
+2017-10-01,Corporate,Furnishings,7
+2017-10-01,Corporate,Paper,9
+2017-10-01,Consumer,Bookcases,3
+2017-10-01,Corporate,Bookcases,2
+2017-10-01,Consumer,Furnishings,12
+2017-10-01,Consumer,Supplies,3
+2017-10-01,Consumer,Labels,3
+2017-10-01,Consumer,Art,10
+2017-10-01,Corporate,Labels,1
+2017-10-01,Corporate,Machines,1
+2017-10-01,Corporate,Accessories,4
+2017-10-01,Consumer,Chairs,9
+2017-10-01,Consumer,Envelopes,3
+2017-10-01,Corporate,Envelopes,1
+2017-10-01,Consumer,Appliances,4
+2017-10-01,Corporate,Art,4
+2017-10-01,Consumer,Binders,15
+2017-10-01,Consumer,Tables,2
+2017-10-01,Corporate,Storage,8
+2017-10-01,Consumer,Storage,14
+2017-10-01,Consumer,Accessories,9
+2017-11-01,Corporate,Paper,8
+2017-11-01,Home Office,Chairs,2
+2017-11-01,Consumer,Tables,4
+2017-11-01,Consumer,Envelopes,3
+2017-11-01,Corporate,Bookcases,1
+2017-11-01,Consumer,Furnishings,7
+2017-11-01,Consumer,Bookcases,1
+2017-11-01,Consumer,Supplies,1
+2017-11-01,Corporate,Machines,2
+2017-11-01,Corporate,Fasteners,3
+2017-11-01,Home Office,Phones,4
+2017-11-01,Consumer,Labels,5
+2017-11-01,Consumer,Art,12
+2017-11-01,Consumer,Fasteners,2
+2017-11-01,Home Office,Furnishings,8
+2017-11-01,Home Office,Art,3
+2017-11-01,Home Office,Envelopes,1
+2017-11-01,Corporate,Chairs,7
+2017-11-01,Consumer,Storage,14
+2017-11-01,Corporate,Art,4
+2017-11-01,Consumer,Chairs,9
+2017-11-01,Corporate,Tables,5
+2017-11-01,Home Office,Bookcases,3
+2017-11-01,Home Office,Storage,3
+2017-11-01,Home Office,Labels,3
+2017-11-01,Consumer,Copiers,2
+2017-11-01,Corporate,Supplies,1
+2017-11-01,Home Office,Paper,8
+2017-11-01,Consumer,Binders,29
+2017-11-01,Corporate,Phones,9
+2017-11-01,Consumer,Paper,17
+2017-11-01,Consumer,Accessories,14
+2017-11-01,Corporate,Binders,14
+2017-11-01,Home Office,Appliances,3
+2017-11-01,Corporate,Appliances,6
+2017-11-01,Home Office,Fasteners,2
+2017-11-01,Consumer,Machines,2
+2017-11-01,Home Office,Binders,8
+2017-11-01,Home Office,Supplies,2
+2017-11-01,Corporate,Accessories,14
+2017-11-01,Consumer,Appliances,3
+2017-11-01,Home Office,Accessories,3
+2017-11-01,Consumer,Phones,15
+2017-11-01,Corporate,Storage,11
+2017-11-01,Corporate,Furnishings,10
+2017-12-01,Corporate,Chairs,9
+2017-12-01,Home Office,Appliances,2
+2017-12-01,Corporate,Envelopes,3
+2017-12-01,Corporate,Accessories,7
+2017-12-01,Home Office,Phones,5
+2017-12-01,Consumer,Storage,6
+2017-12-01,Consumer,Binders,17
+2017-12-01,Consumer,Art,4
+2017-12-01,Corporate,Furnishings,9
+2017-12-01,Corporate,Copiers,1
+2017-12-01,Consumer,Tables,4
+2017-12-01,Home Office,Fasteners,1
+2017-12-01,Home Office,Accessories,3
+2017-12-01,Corporate,Labels,3
+2017-12-01,Home Office,Labels,2
+2017-12-01,Corporate,Tables,7
+2017-12-01,Consumer,Chairs,10
+2017-12-01,Consumer,Appliances,6
+2017-12-01,Home Office,Storage,6
+2017-12-01,Corporate,Binders,17
+2017-12-01,Home Office,Paper,7
+2017-12-01,Corporate,Supplies,3
+2017-12-01,Corporate,Phones,9
+2017-12-01,Consumer,Paper,16
+2017-12-01,Consumer,Phones,2
+2017-12-01,Home Office,Chairs,4
+2017-12-01,Consumer,Furnishings,17
+2017-12-01,Consumer,Accessories,10
+2017-12-01,Corporate,Storage,9
+2017-12-01,Consumer,Fasteners,3
+2017-12-01,Consumer,Envelopes,6
+2017-12-01,Home Office,Tables,3
+2017-12-01,Corporate,Art,8
+2017-12-01,Home Office,Binders,6
+2017-12-01,Corporate,Appliances,7
+2017-12-01,Corporate,Fasteners,3
+2017-12-01,Corporate,Paper,12
+2017-12-01,Consumer,Supplies,2
+2017-12-01,Corporate,Bookcases,1
+2017-12-01,Corporate,Machines,1
+2017-12-01,Home Office,Furnishings,3
+2017-12-01,Home Office,Art,4
+2017-12-01,Consumer,Labels,4
+2017-12-01,Home Office,Machines,2
+2018-01-01,Consumer,Supplies,3
+2018-01-01,Consumer,Chairs,9
+2018-01-01,Home Office,Envelopes,1
+2018-01-01,Consumer,Envelopes,5
+2018-01-01,Consumer,Storage,10
+2018-01-01,Corporate,Chairs,3
+2018-01-01,Home Office,Art,4
+2018-01-01,Home Office,Bookcases,1
+2018-01-01,Home Office,Paper,3
+2018-01-01,Consumer,Fasteners,3
+2018-01-01,Corporate,Art,5
+2018-01-01,Corporate,Appliances,4
+2018-01-01,Consumer,Labels,6
+2018-01-01,Consumer,Bookcases,2
+2018-01-01,Home Office,Copiers,1
+2018-01-01,Corporate,Bookcases,2
+2018-01-01,Home Office,Phones,3
+2018-01-01,Home Office,Binders,9
+2018-01-01,Corporate,Binders,10
+2018-01-01,Consumer,Paper,15
+2018-01-01,Corporate,Phones,4
+2018-01-01,Corporate,Storage,2
+2018-01-01,Corporate,Accessories,1
+2018-01-01,Corporate,Fasteners,1
+2018-01-01,Corporate,Furnishings,4
+2018-01-01,Home Office,Accessories,7
+2018-01-01,Home Office,Storage,5
+2018-01-01,Home Office,Machines,2
+2018-01-01,Corporate,Tables,3
+2018-01-01,Home Office,Chairs,2
+2018-01-01,Corporate,Machines,2
+2018-01-01,Home Office,Furnishings,3
+2018-01-01,Consumer,Accessories,5
+2018-01-01,Corporate,Supplies,1
+2018-01-01,Consumer,Tables,3
+2018-01-01,Consumer,Appliances,6
+2018-01-01,Consumer,Binders,20
+2018-01-01,Corporate,Paper,7
+2018-01-01,Consumer,Furnishings,7
+2018-01-01,Consumer,Art,7
+2018-01-01,Corporate,Labels,1
+2018-01-01,Consumer,Phones,17
+2018-02-01,Home Office,Furnishings,7
+2018-02-01,Corporate,Appliances,7
+2018-02-01,Corporate,Art,10
+2018-02-01,Consumer,Chairs,3
+2018-02-01,Home Office,Art,5
+2018-02-01,Home Office,Storage,6
+2018-02-01,Corporate,Fasteners,5
+2018-02-01,Corporate,Tables,1
+2018-02-01,Consumer,Phones,4
+2018-02-01,Corporate,Phones,13
+2018-02-01,Consumer,Paper,14
+2018-02-01,Corporate,Machines,2
+2018-02-01,Corporate,Bookcases,2
+2018-02-01,Consumer,Appliances,8
+2018-02-01,Corporate,Paper,9
+2018-02-01,Corporate,Supplies,2
+2018-02-01,Home Office,Paper,5
+2018-02-01,Consumer,Supplies,3
+2018-02-01,Home Office,Bookcases,1
+2018-02-01,Consumer,Tables,2
+2018-02-01,Corporate,Labels,2
+2018-02-01,Corporate,Binders,10
+2018-02-01,Home Office,Tables,5
+2018-02-01,Consumer,Binders,11
+2018-02-01,Home Office,Appliances,2
+2018-02-01,Consumer,Envelopes,1
+2018-02-01,Corporate,Accessories,8
+2018-02-01,Home Office,Accessories,3
+2018-02-01,Home Office,Envelopes,2
+2018-02-01,Home Office,Phones,8
+2018-02-01,Corporate,Furnishings,8
+2018-02-01,Corporate,Storage,5
+2018-02-01,Home Office,Fasteners,2
+2018-02-01,Home Office,Chairs,4
+2018-02-01,Consumer,Bookcases,2
+2018-02-01,Home Office,Binders,7
+2018-02-01,Consumer,Labels,3
+2018-02-01,Consumer,Furnishings,7
+2018-02-01,Consumer,Art,12
+2018-02-01,Consumer,Fasteners,2
+2018-02-01,Consumer,Accessories,3
+2018-02-01,Corporate,Chairs,4
+2018-02-01,Consumer,Machines,1
+2018-02-01,Consumer,Storage,4
+2018-02-01,Corporate,Envelopes,3
+2018-03-01,Consumer,Furnishings,19
+2018-03-01,Corporate,Supplies,2
+2018-03-01,Consumer,Tables,3
+2018-03-01,Consumer,Paper,25
+2018-03-01,Consumer,Accessories,19
+2018-03-01,Consumer,Copiers,3
+2018-03-01,Consumer,Envelopes,3
+2018-03-01,Home Office,Copiers,1
+2018-03-01,Home Office,Binders,4
+2018-03-01,Corporate,Appliances,6
+2018-03-01,Corporate,Art,5
+2018-03-01,Corporate,Phones,4
+2018-03-01,Home Office,Tables,3
+2018-03-01,Corporate,Storage,7
+2018-03-01,Consumer,Chairs,6
+2018-03-01,Corporate,Chairs,5
+2018-03-01,Corporate,Fasteners,1
+2018-03-01,Consumer,Storage,13
+2018-03-01,Corporate,Envelopes,2
+2018-03-01,Home Office,Furnishings,5
+2018-03-01,Corporate,Accessories,6
+2018-03-01,Home Office,Chairs,3
+2018-03-01,Home Office,Accessories,8
+2018-03-01,Home Office,Phones,6
+2018-03-01,Corporate,Furnishings,6
+2018-03-01,Corporate,Copiers,2
+2018-03-01,Consumer,Art,11
+2018-03-01,Consumer,Bookcases,5
+2018-03-01,Consumer,Labels,6
+2018-03-01,Corporate,Binders,9
+2018-03-01,Corporate,Labels,1
+2018-03-01,Consumer,Binders,26
+2018-03-01,Home Office,Storage,5
+2018-03-01,Home Office,Labels,2
+2018-03-01,Consumer,Supplies,2
+2018-03-01,Corporate,Paper,11
+2018-03-01,Home Office,Paper,16
+2018-03-01,Consumer,Appliances,8
+2018-03-01,Home Office,Fasteners,2
+2018-03-01,Corporate,Bookcases,1
+2018-03-01,Corporate,Machines,3
+2018-03-01,Home Office,Art,5
+2018-03-01,Consumer,Phones,16
+2018-03-01,Home Office,Machines,2
+2018-03-01,Corporate,Tables,4
+2018-04-01,Corporate,Appliances,2
+2018-04-01,Corporate,Accessories,6
+2018-04-01,Consumer,Fasteners,2
+2018-04-01,Home Office,Bookcases,1
+2018-04-01,Consumer,Tables,1
+2018-04-01,Home Office,Machines,1
+2018-04-01,Home Office,Labels,6
+2018-04-01,Home Office,Appliances,1
+2018-04-01,Consumer,Furnishings,11
+2018-04-01,Corporate,Fasteners,1
+2018-04-01,Consumer,Binders,19
+2018-04-01,Consumer,Envelopes,1
+2018-04-01,Home Office,Furnishings,6
+2018-04-01,Consumer,Art,13
+2018-04-01,Corporate,Supplies,1
+2018-04-01,Home Office,Accessories,1
+2018-04-01,Consumer,Storage,10
+2018-04-01,Corporate,Furnishings,9
+2018-04-01,Home Office,Fasteners,1
+2018-04-01,Home Office,Storage,2
+2018-04-01,Consumer,Machines,1
+2018-04-01,Consumer,Phones,5
+2018-04-01,Corporate,Tables,4
+2018-04-01,Corporate,Machines,1
+2018-04-01,Consumer,Appliances,4
+2018-04-01,Corporate,Labels,1
+2018-04-01,Corporate,Paper,9
+2018-04-01,Corporate,Phones,4
+2018-04-01,Home Office,Paper,6
+2018-04-01,Consumer,Paper,12
+2018-04-01,Home Office,Binders,12
+2018-04-01,Corporate,Art,5
+2018-04-01,Corporate,Storage,7
+2018-04-01,Consumer,Accessories,9
+2018-04-01,Consumer,Supplies,2
+2018-04-01,Corporate,Binders,12
+2018-04-01,Corporate,Envelopes,4
+2018-04-01,Home Office,Supplies,1
+2018-04-01,Home Office,Art,7
+2018-04-01,Corporate,Bookcases,3
+2018-04-01,Corporate,Chairs,3
+2018-04-01,Home Office,Envelopes,1
+2018-04-01,Consumer,Bookcases,3
+2018-04-01,Home Office,Phones,3
+2018-04-01,Consumer,Labels,5
+2018-04-01,Consumer,Chairs,6
+2018-05-01,Consumer,Paper,19
+2018-05-01,Home Office,Furnishings,3
+2018-05-01,Consumer,Phones,12
+2018-05-01,Consumer,Storage,9
+2018-05-01,Consumer,Labels,6
+2018-05-01,Consumer,Supplies,1
+2018-05-01,Corporate,Storage,2
+2018-05-01,Consumer,Furnishings,11
+2018-05-01,Home Office,Fasteners,1
+2018-05-01,Home Office,Labels,1
+2018-05-01,Consumer,Chairs,6
+2018-05-01,Corporate,Envelopes,2
+2018-05-01,Corporate,Tables,1
+2018-05-01,Corporate,Binders,13
+2018-05-01,Corporate,Fasteners,1
+2018-05-01,Home Office,Paper,4
+2018-05-01,Consumer,Appliances,5
+2018-05-01,Home Office,Storage,2
+2018-05-01,Home Office,Art,5
+2018-05-01,Corporate,Machines,1
+2018-05-01,Corporate,Bookcases,2
+2018-05-01,Corporate,Chairs,5
+2018-05-01,Corporate,Furnishings,9
+2018-05-01,Home Office,Accessories,3
+2018-05-01,Consumer,Bookcases,4
+2018-05-01,Home Office,Appliances,1
+2018-05-01,Consumer,Art,8
+2018-05-01,Home Office,Phones,5
+2018-05-01,Corporate,Labels,1
+2018-05-01,Corporate,Paper,11
+2018-05-01,Consumer,Binders,20
+2018-05-01,Corporate,Phones,10
+2018-05-01,Corporate,Accessories,8
+2018-05-01,Corporate,Art,5
+2018-05-01,Corporate,Supplies,2
+2018-05-01,Consumer,Fasteners,4
+2018-05-01,Corporate,Appliances,9
+2018-05-01,Consumer,Tables,2
+2018-05-01,Home Office,Machines,1
+2018-05-01,Consumer,Accessories,10
+2018-05-01,Home Office,Chairs,3
+2018-05-01,Consumer,Envelopes,3
+2018-05-01,Home Office,Binders,10
+2018-06-01,Corporate,Phones,4
+2018-06-01,Home Office,Tables,2
+2018-06-01,Home Office,Accessories,5
+2018-06-01,Home Office,Furnishings,3
+2018-06-01,Consumer,Art,10
+2018-06-01,Consumer,Phones,9
+2018-06-01,Corporate,Paper,11
+2018-06-01,Corporate,Furnishings,5
+2018-06-01,Corporate,Labels,1
+2018-06-01,Home Office,Fasteners,1
+2018-06-01,Home Office,Storage,6
+2018-06-01,Consumer,Appliances,7
+2018-06-01,Corporate,Supplies,2
+2018-06-01,Consumer,Accessories,5
+2018-06-01,Home Office,Supplies,1
+2018-06-01,Consumer,Paper,15
+2018-06-01,Corporate,Tables,1
+2018-06-01,Home Office,Labels,5
+2018-06-01,Corporate,Storage,7
+2018-06-01,Consumer,Supplies,2
+2018-06-01,Corporate,Art,3
+2018-06-01,Corporate,Binders,9
+2018-06-01,Home Office,Paper,15
+2018-06-01,Consumer,Envelopes,2
+2018-06-01,Consumer,Binders,10
+2018-06-01,Corporate,Appliances,1
+2018-06-01,Consumer,Fasteners,1
+2018-06-01,Consumer,Chairs,7
+2018-06-01,Home Office,Art,6
+2018-06-01,Consumer,Furnishings,10
+2018-06-01,Corporate,Bookcases,2
+2018-06-01,Corporate,Chairs,2
+2018-06-01,Consumer,Bookcases,8
+2018-06-01,Home Office,Appliances,1
+2018-06-01,Consumer,Labels,4
+2018-06-01,Consumer,Storage,10
+2018-06-01,Home Office,Chairs,6
+2018-06-01,Home Office,Machines,1
+2018-06-01,Home Office,Phones,5
+2018-06-01,Corporate,Accessories,3
+2018-06-01,Consumer,Tables,3
+2018-06-01,Home Office,Binders,9
+2018-07-01,Consumer,Envelopes,1
+2018-07-01,Consumer,Accessories,19
+2018-07-01,Home Office,Tables,4
+2018-07-01,Consumer,Fasteners,3
+2018-07-01,Consumer,Binders,16
+2018-07-01,Home Office,Paper,5
+2018-07-01,Home Office,Storage,2
+2018-07-01,Consumer,Chairs,10
+2018-07-01,Consumer,Furnishings,19
+2018-07-01,Consumer,Bookcases,4
+2018-07-01,Consumer,Art,13
+2018-07-01,Home Office,Furnishings,2
+2018-07-01,Consumer,Labels,6
+2018-07-01,Home Office,Phones,5
+2018-07-01,Consumer,Copiers,1
+2018-07-01,Consumer,Appliances,6
+2018-07-01,Consumer,Supplies,4
+2018-07-01,Home Office,Binders,9
+2018-07-01,Corporate,Fasteners,2
+2018-07-01,Home Office,Accessories,6
+2018-07-01,Corporate,Furnishings,1
+2018-07-01,Corporate,Envelopes,1
+2018-07-01,Corporate,Labels,2
+2018-07-01,Consumer,Tables,5
+2018-07-01,Corporate,Copiers,1
+2018-07-01,Consumer,Storage,12
+2018-07-01,Corporate,Accessories,3
+2018-07-01,Corporate,Tables,1
+2018-07-01,Home Office,Copiers,1
+2018-07-01,Corporate,Chairs,7
+2018-07-01,Corporate,Paper,7
+2018-07-01,Corporate,Bookcases,1
+2018-07-01,Home Office,Art,2
+2018-07-01,Corporate,Machines,1
+2018-07-01,Consumer,Phones,21
+2018-07-01,Home Office,Fasteners,1
+2018-07-01,Consumer,Paper,14
+2018-07-01,Corporate,Art,1
+2018-07-01,Corporate,Appliances,5
+2018-07-01,Corporate,Binders,9
+2018-07-01,Corporate,Phones,4
+2018-07-01,Corporate,Storage,4
+2018-08-01,Home Office,Art,5
+2018-08-01,Corporate,Art,3
+2018-08-01,Consumer,Copiers,1
+2018-08-01,Corporate,Binders,15
+2018-08-01,Home Office,Chairs,1
+2018-08-01,Home Office,Phones,6
+2018-08-01,Corporate,Fasteners,1
+2018-08-01,Corporate,Envelopes,2
+2018-08-01,Consumer,Tables,5
+2018-08-01,Consumer,Fasteners,3
+2018-08-01,Consumer,Binders,16
+2018-08-01,Corporate,Copiers,2
+2018-08-01,Consumer,Envelopes,2
+2018-08-01,Home Office,Paper,4
+2018-08-01,Corporate,Accessories,10
+2018-08-01,Corporate,Chairs,6
+2018-08-01,Consumer,Chairs,7
+2018-08-01,Corporate,Appliances,5
+2018-08-01,Home Office,Bookcases,1
+2018-08-01,Consumer,Bookcases,3
+2018-08-01,Home Office,Appliances,3
+2018-08-01,Home Office,Binders,5
+2018-08-01,Consumer,Paper,18
+2018-08-01,Home Office,Furnishings,5
+2018-08-01,Home Office,Tables,2
+2018-08-01,Corporate,Storage,13
+2018-08-01,Corporate,Phones,5
+2018-08-01,Corporate,Supplies,3
+2018-08-01,Consumer,Accessories,7
+2018-08-01,Consumer,Phones,4
+2018-08-01,Home Office,Supplies,3
+2018-08-01,Corporate,Paper,8
+2018-08-01,Corporate,Tables,2
+2018-08-01,Consumer,Labels,6
+2018-08-01,Consumer,Storage,10
+2018-08-01,Consumer,Appliances,10
+2018-08-01,Home Office,Copiers,1
+2018-08-01,Home Office,Accessories,2
+2018-08-01,Consumer,Furnishings,8
+2018-08-01,Home Office,Storage,6
+2018-08-01,Consumer,Art,10
+2018-08-01,Corporate,Furnishings,13
+2018-08-01,Corporate,Labels,4
+2018-08-01,Consumer,Supplies,2
+2018-09-01,Consumer,Chairs,14
+2018-09-01,Home Office,Paper,9
+2018-09-01,Home Office,Phones,6
+2018-09-01,Corporate,Binders,17
+2018-09-01,Home Office,Storage,8
+2018-09-01,Corporate,Storage,15
+2018-09-01,Corporate,Art,9
+2018-09-01,Home Office,Accessories,6
+2018-09-01,Consumer,Copiers,2
+2018-09-01,Home Office,Tables,5
+2018-09-01,Corporate,Supplies,2
+2018-09-01,Corporate,Phones,9
+2018-09-01,Home Office,Supplies,1
+2018-09-01,Home Office,Appliances,2
+2018-09-01,Corporate,Envelopes,7
+2018-09-01,Corporate,Paper,21
+2018-09-01,Corporate,Bookcases,2
+2018-09-01,Consumer,Bookcases,3
+2018-09-01,Corporate,Fasteners,1
+2018-09-01,Corporate,Machines,1
+2018-09-01,Corporate,Furnishings,10
+2018-09-01,Corporate,Tables,2
+2018-09-01,Corporate,Chairs,7
+2018-09-01,Corporate,Labels,3
+2018-09-01,Consumer,Appliances,8
+2018-09-01,Consumer,Binders,38
+2018-09-01,Consumer,Accessories,21
+2018-09-01,Consumer,Art,16
+2018-09-01,Home Office,Art,8
+2018-09-01,Home Office,Furnishings,6
+2018-09-01,Consumer,Supplies,4
+2018-09-01,Home Office,Chairs,5
+2018-09-01,Home Office,Labels,5
+2018-09-01,Consumer,Furnishings,13
+2018-09-01,Consumer,Fasteners,2
+2018-09-01,Consumer,Phones,11
+2018-09-01,Corporate,Accessories,10
+2018-09-01,Home Office,Machines,1
+2018-09-01,Consumer,Storage,13
+2018-09-01,Home Office,Bookcases,2
+2018-09-01,Home Office,Envelopes,3
+2018-09-01,Corporate,Appliances,4
+2018-09-01,Consumer,Machines,3
+2018-09-01,Home Office,Binders,6
+2018-09-01,Consumer,Labels,6
+2018-09-01,Consumer,Envelopes,3
+2018-09-01,Consumer,Paper,32
+2018-10-01,Corporate,Art,7
+2018-10-01,Consumer,Tables,8
+2018-10-01,Home Office,Fasteners,1
+2018-10-01,Consumer,Binders,17
+2018-10-01,Consumer,Fasteners,1
+2018-10-01,Corporate,Furnishings,11
+2018-10-01,Home Office,Supplies,1
+2018-10-01,Home Office,Appliances,1
+2018-10-01,Consumer,Furnishings,12
+2018-10-01,Home Office,Tables,1
+2018-10-01,Corporate,Binders,14
+2018-10-01,Home Office,Labels,3
+2018-10-01,Home Office,Furnishings,3
+2018-10-01,Home Office,Binders,9
+2018-10-01,Home Office,Chairs,3
+2018-10-01,Corporate,Machines,1
+2018-10-01,Home Office,Phones,7
+2018-10-01,Home Office,Accessories,2
+2018-10-01,Consumer,Labels,7
+2018-10-01,Corporate,Envelopes,5
+2018-10-01,Consumer,Art,6
+2018-10-01,Home Office,Copiers,1
+2018-10-01,Corporate,Fasteners,1
+2018-10-01,Corporate,Chairs,3
+2018-10-01,Corporate,Phones,13
+2018-10-01,Consumer,Appliances,8
+2018-10-01,Home Office,Bookcases,2
+2018-10-01,Corporate,Paper,16
+2018-10-01,Corporate,Appliances,3
+2018-10-01,Consumer,Paper,15
+2018-10-01,Consumer,Envelopes,3
+2018-10-01,Home Office,Paper,5
+2018-10-01,Home Office,Storage,4
+2018-10-01,Corporate,Storage,7
+2018-10-01,Home Office,Envelopes,1
+2018-10-01,Consumer,Phones,11
+2018-10-01,Home Office,Art,7
+2018-10-01,Corporate,Tables,8
+2018-10-01,Consumer,Bookcases,2
+2018-10-01,Consumer,Accessories,13
+2018-10-01,Corporate,Bookcases,1
+2018-10-01,Home Office,Machines,1
+2018-10-01,Corporate,Labels,5
+2018-10-01,Consumer,Chairs,5
+2018-10-01,Corporate,Accessories,6
+2018-10-01,Consumer,Storage,11
+2018-11-01,Consumer,Storage,16
+2018-11-01,Consumer,Art,26
+2018-11-01,Consumer,Appliances,10
+2018-11-01,Consumer,Accessories,13
+2018-11-01,Consumer,Supplies,4
+2018-11-01,Consumer,Furnishings,25
+2018-11-01,Corporate,Furnishings,5
+2018-11-01,Home Office,Envelopes,3
+2018-11-01,Corporate,Labels,3
+2018-11-01,Corporate,Paper,13
+2018-11-01,Home Office,Furnishings,11
+2018-11-01,Corporate,Tables,3
+2018-11-01,Home Office,Storage,10
+2018-11-01,Consumer,Phones,18
+2018-11-01,Consumer,Labels,5
+2018-11-01,Corporate,Fasteners,1
+2018-11-01,Home Office,Accessories,2
+2018-11-01,Corporate,Phones,13
+2018-11-01,Corporate,Bookcases,2
+2018-11-01,Corporate,Accessories,8
+2018-11-01,Home Office,Art,7
+2018-11-01,Corporate,Storage,7
+2018-11-01,Home Office,Paper,8
+2018-11-01,Consumer,Envelopes,2
+2018-11-01,Corporate,Binders,16
+2018-11-01,Corporate,Appliances,7
+2018-11-01,Consumer,Machines,2
+2018-11-01,Corporate,Art,7
+2018-11-01,Consumer,Chairs,12
+2018-11-01,Home Office,Binders,10
+2018-11-01,Consumer,Copiers,1
+2018-11-01,Home Office,Machines,1
+2018-11-01,Home Office,Tables,4
+2018-11-01,Consumer,Bookcases,6
+2018-11-01,Consumer,Paper,24
+2018-11-01,Home Office,Fasteners,1
+2018-11-01,Corporate,Envelopes,3
+2018-11-01,Home Office,Phones,6
+2018-11-01,Home Office,Chairs,4
+2018-11-01,Corporate,Chairs,6
+2018-11-01,Consumer,Fasteners,7
+2018-11-01,Home Office,Appliances,4
+2018-11-01,Corporate,Machines,2
+2018-11-01,Corporate,Copiers,1
+2018-11-01,Consumer,Binders,24
+2018-11-01,Consumer,Tables,6
+2018-12-01,Corporate,Storage,11
+2018-12-01,Home Office,Supplies,1
+2018-12-01,Corporate,Paper,11
+2018-12-01,Consumer,Accessories,14
+2018-12-01,Corporate,Phones,5
+2018-12-01,Consumer,Paper,27
+2018-12-01,Corporate,Supplies,3
+2018-12-01,Consumer,Machines,2
+2018-12-01,Home Office,Fasteners,2
+2018-12-01,Consumer,Labels,5
+2018-12-01,Consumer,Copiers,1
+2018-12-01,Home Office,Accessories,5
+2018-12-01,Consumer,Phones,8
+2018-12-01,Home Office,Binders,9
+2018-12-01,Corporate,Appliances,1
+2018-12-01,Consumer,Chairs,11
+2018-12-01,Corporate,Art,7
+2018-12-01,Corporate,Binders,20
+2018-12-01,Home Office,Art,3
+2018-12-01,Home Office,Paper,8
+2018-12-01,Consumer,Envelopes,1
+2018-12-01,Corporate,Accessories,9
+2018-12-01,Corporate,Bookcases,2
+2018-12-01,Consumer,Bookcases,6
+2018-12-01,Consumer,Tables,7
+2018-12-01,Corporate,Chairs,5
+2018-12-01,Consumer,Binders,22
+2018-12-01,Home Office,Furnishings,9
+2018-12-01,Home Office,Appliances,1
+2018-12-01,Home Office,Phones,6
+2018-12-01,Corporate,Envelopes,2
+2018-12-01,Home Office,Chairs,4
+2018-12-01,Consumer,Supplies,5
+2018-12-01,Consumer,Art,16
+2018-12-01,Home Office,Copiers,2
+2018-12-01,Consumer,Storage,16
+2018-12-01,Consumer,Furnishings,15
+2018-12-01,Corporate,Furnishings,9
+2018-12-01,Consumer,Appliances,11
+2018-12-01,Corporate,Labels,2
+2018-12-01,Corporate,Tables,1
+2018-12-01,Home Office,Storage,4
+2018-12-01,Home Office,Envelopes,2
+2018-12-01,Consumer,Fasteners,8
+2018-12-01,Home Office,Tables,2
