@@ -90,7 +90,7 @@ def total_cat_ano(seg, df_cats):
                                  y=df_cats[df_cats.Category==n]['Sales'],
                                  name = n))
 
-    fig.update_layout(title_text=f'Total de vendas por categoria no segmento Consumer', 
+    fig.update_layout(title_text=f'Total de vendas por categoria no segmento {seg}', 
                       title_font_color='black', title_x=0.5, title_font_size=10, 
                       legend={'orientation':'h', 
                               'y':1, 'yanchor': 'top', 
