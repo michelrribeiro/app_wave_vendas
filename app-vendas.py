@@ -9,21 +9,21 @@ from statsmodels.tsa.statespace.sarimax import SARIMAX
 from h2o_wave import Q, app, data, main, ui
 #-------------------------------------------------------------------------------------------------------
 # Carregando os dataframes necessários:
-df_ticket = pd.read_csv('./../data/df_ticket.csv', index_col=0)
-df_prev = pd.read_csv('./../data/df_prev.csv', parse_dates=['Order Date'], index_col=0)
-df_cats = pd.read_csv('./../data/df_cats.csv', index_col=0)
+df_ticket = pd.read_csv('https://raw.githubusercontent.com/michelrribeiro/app_wave_vendas/main/data/df_ticket.csv', index_col=0)
+df_prev = pd.read_csv('https://raw.githubusercontent.com/michelrribeiro/app_wave_vendas/main/data/df_prev.csv', parse_dates=['Order Date'], index_col=0)
+df_cats = pd.read_csv('https://raw.githubusercontent.com/michelrribeiro/app_wave_vendas/main/data/df_cats.csv', index_col=0)
 
 # Lista de subcategorias:
 def lista_subcat(seg):
     prop_vendas_nome = seg.lower().replace(' ', '_') + '_prop_vendas.csv'
-    prop_vendas = pd.read_csv(f'./../data/{prop_vendas_nome}', index_col=0)
+    prop_vendas = pd.read_csv(f'https://raw.githubusercontent.com/michelrribeiro/app_wave_vendas/main/data/{prop_vendas_nome}', index_col=0)
     nomes = [n for n in prop_vendas['Sub-Category'].unique()]
     return np.sort(nomes)
 
 # Lista de produtos com base no segmento e subcategoria:
 def lista_produtos(seg, subcategoria):
     prop_vendas_nome = seg.lower().replace(' ', '_') + '_prop_vendas.csv'
-    prop_vendas = pd.read_csv(f'./../data/{prop_vendas_nome}', index_col=0)
+    prop_vendas = pd.read_csv(f'https://raw.githubusercontent.com/michelrribeiro/app_wave_vendas/main/data/{prop_vendas_nome}', index_col=0)
     nomes = prop_vendas[prop_vendas['Sub-Category']==subcategoria]['Product Name'].to_list()
     return np.sort(nomes)
 
@@ -109,8 +109,8 @@ def indicados(segmento, subcategoria, produto):
     associacoes_nome = segmento.lower().replace(' ', '_') + '_associacoes.csv'
     prop_vendas_nome = segmento.lower().replace(' ', '_') + '_prop_vendas.csv'
     
-    associacoes = pd.read_csv(f'./../data/{associacoes_nome}', index_col=0)
-    prop_vendas = pd.read_csv(f'./../data/{prop_vendas_nome}', index_col=0)
+    associacoes = pd.read_csv(f'https://raw.githubusercontent.com/michelrribeiro/app_wave_vendas/main/data/{associacoes_nome}', index_col=0)
+    prop_vendas = pd.read_csv(f'https://raw.githubusercontent.com/michelrribeiro/app_wave_vendas/main/data/{prop_vendas_nome}', index_col=0)
     
     # Buscando os mais vendidos e os recomendados:
     vendidos = prop_vendas[prop_vendas['Sub-Category'] == subcategoria][
